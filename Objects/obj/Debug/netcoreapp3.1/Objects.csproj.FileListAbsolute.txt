@@ -1,0 +1,12 @@
+C:\Users\christian\source\repos\BettingApi\Objects\bin\Debug\netcoreapp3.1\Objects.deps.json
+C:\Users\christian\source\repos\BettingApi\Objects\bin\Debug\netcoreapp3.1\Objects.dll
+C:\Users\christian\source\repos\BettingApi\Objects\bin\Debug\netcoreapp3.1\Objects.pdb
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.CoreCompileInputs.cache
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfoInputs.cache
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfo.cs
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.dll
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.pdb
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.csprojAssemblyReference.cache
+C:\Users\christian\source\repos\BettingApi\Objects\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\christian\source\repos\BettingApi\Objects\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\christian\source\repos\BettingApi\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.CopyComplete

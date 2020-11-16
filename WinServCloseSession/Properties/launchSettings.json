@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WinServCloseSession": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
